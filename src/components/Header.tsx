@@ -63,7 +63,7 @@ export default function Header() {
             </button>
             <div className="flex items-center space-x-2 text-gray-600 bg-gray-50 px-4 py-2 rounded-xl hover:bg-gray-100 transition-colors">
               <Phone className="w-4 h-4 text-amber-600" />
-              <span className="text-sm font-medium">+91 98765 43210</span>
+              <span className="text-sm font-medium">+91 98471 31427</span>
             </div>
           </div>
 

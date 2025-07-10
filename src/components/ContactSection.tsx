@@ -75,7 +75,7 @@ export default function ContactSection() {
                     <Phone className="w-8 h-8" />
                   </div>
                   <h4 className="font-bold text-xl mb-3 group-hover:text-amber-300 transition-colors">Call Firoz Padinhar</h4>
-                  <a href="tel:+919876543210" onClick={handlePhoneClick} className="block text-gray-300 hover:text-white transition-colors cursor-pointer">+91 98765 43210</a>
+                  <a href="tel:+919847131427" onClick={handlePhoneClick} className="block text-gray-300 hover:text-white transition-colors cursor-pointer">+91 98471 31427</a>
                   <a href="tel:+918765432109" onClick={handlePhoneClick} className="block text-gray-300 hover:text-white transition-colors cursor-pointer">+91 87654 32109</a>
                 </div>
               </div>
@@ -87,7 +87,7 @@ export default function ContactSection() {
                   </div>
                   <h4 className="font-bold text-xl mb-3 group-hover:text-amber-300 transition-colors">Email Us</h4>
                   <a href="mailto:info@akevents-deli.com" className="block text-gray-300 hover:text-white transition-colors cursor-pointer">info@akevents-deli.com</a>
-                  <a href="mailto:firoz@akevents-deli.com" className="block text-gray-300 hover:text-white transition-colors cursor-pointer">firoz@akevents-deli.com</a>
+                  <a href="mailto:firozpadinhar@gmail.com" className="block text-gray-300 hover:text-white transition-colors cursor-pointer">firozpadinhar@gmail.com</a>
                 </div>
               </div>
             </div>
@@ -98,10 +98,10 @@ export default function ContactSection() {
               </div>
               <h4 className="font-bold text-xl mb-3">Visit Our Showroom in Melparamba</h4>
               <p className="text-gray-300 leading-relaxed">
-                AK Events Deli Showroom<br />
+                AK Events Deli<br />
                 Melparamba, Kasaragod<br />
                 Kerala 671121, India<br />
-                <span className="text-amber-300 font-medium">Near Shalimar Sounds</span>
+                {/* <span className="text-amber-300 font-medium">Near Shalimar Sounds</span> */}
               </p>
             </div>
 

@@ -10,7 +10,7 @@ export default function OtherBusinessesSection() {
       description: "Professional sound systems and crystal-clear audio equipment for premium events across Kasaragod",
       icon: <Volume2 className="w-14 h-14" />,
       services: ["Premium Sound Systems", "Wireless Microphones", "DJ Equipment", "Live Audio Setup"],
-      contact: "+91 98765 43211",
+      contact: "+91 98471 31427",
       gradient: "from-blue-500 to-cyan-500",
       bgGradient: "from-blue-50 to-cyan-50",
       features: ["Professional Grade", "Event Coverage", "Setup Included"]
