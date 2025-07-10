@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.akevents-deli.com/sitemap.xml
+
+# Specific crawling rules
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 10
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 10
+
+# Block unnecessary paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /private/
+
+# Allow important pages
+Allow: /services
+Allow: /gallery
+Allow: /contact
+Allow: /about
